@@ -10,6 +10,12 @@
 console.log(test('bertil')) */
 
 /* Install package  with npm
-/*  */
+/* Moment package */
+//const moment = require('moment')
+
+//console.log(moment().format('dddd'))
+
+/* Fetch with node */
+
 
  
