@@ -18,6 +18,7 @@
   "homepage": "https://github.com/RichardITHS/VueLesson-Week5-Node#readme",
   "dependencies": {
     "bootstrap": "^5.2.3",
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.8"
   }
 }

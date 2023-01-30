@@ -16,6 +16,12 @@ console.log(test('bertil')) */
 //console.log(moment().format('dddd'))
 
 /* Fetch with node */
+const nodeFetch = require('node-fetch')
 
+nodeFetch('https://avancera.app/cities')
+.then((response) => response.json())
+.then((result) => {
+    console.log(result)
+})
 
  
